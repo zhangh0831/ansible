@@ -1,2 +1,0 @@
-[defualt]
-#192.168.168.60 ansible_ssh_user=root ansible_port=10000
